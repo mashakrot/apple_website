@@ -1,4 +1,4 @@
-# iPhone 15 Website 
+# iPhone 15 Website Clone 
 ## <a name="introduction">Introduction</a>
 This is a clone of Apple's iPhone 15 Pro website using **React.js** and **TailwindCSS**. The project features 3D models, interactive animations powered by **GSAP** and **Three.js**. 
 
